@@ -1,4 +1,4 @@
-# Competetive Programming Repository
+# Competetive Programming Repository critical
 
 ## This is my repo of my attempt to become a good competetive programmer
 
